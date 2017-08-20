@@ -20,7 +20,7 @@ public class Hunter68 {
 		}Arrays.sort(difference);
 		for(int i=0;i<n-1;i++){
 			if((Math.abs(x[i]-x[i+1]))==difference[n-1]){
-				System.out.println(i);System.out.println("V"+difference[n-1]);
+				System.out.println(i);//System.out.println("V"+difference[n-1]);
 			}
 			}
 	}
