@@ -36,7 +36,7 @@ public class Emailhunter69 {
 					}if(charcount==4){
 			for(int y=0;y<at;y++){
 				count1=count1+1;
-			}if(count1>=3){
+			}if(count1>=3&&n.subString&&n.substring(n.length()-3,n.length()).equals("com")){
 				System.out.println("Valid Emailid");
 			}else{
 				System.out.println("In Valid Emailid");
